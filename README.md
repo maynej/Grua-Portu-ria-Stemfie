@@ -44,6 +44,10 @@ Descripció    | Opcional     | Arxiu
 ------------- | ------------ | ----- 
 Mesurador Cargols | 1  | [Mesurador](STL/MesuraStemfie2.stl)
 
+## QR
+
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FGrua-Portuaria-Stemfie&s=6&e=m"/>
+
 ## Llicència
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)    <img src="Imatges/CC.png" width="100" />
