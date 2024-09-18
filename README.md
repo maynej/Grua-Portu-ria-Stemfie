@@ -42,7 +42,7 @@ STL per imprimir el Ganxo [aquí](https://github.com/maynej/Grua-Portuaria-Stemf
 
 Descripció    | Imatge          | Arxiu         
 ------------- | --------------- | ----- 
-Mesurador Cargols | ![](MesuradorStemfie.jpg) | [Mesurador](STL/MesuraStemfie2.stl)
+Mesurador Cargols | ![](Mesurador.png) | [Mesurador](STL/MesuraStemfie2.stl)
 
 ## QR
 
